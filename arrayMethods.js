@@ -39,3 +39,5 @@ var owesMoney = friends.slice(3,7);
 var monthNameString = monthNames.toString();
 var favoriteColor = colors.indexOf('Red');
 var favoriteEvenNumber = mixedNums.indexOf(76);
+var lastNine = bulkNumbers.lastIndexOf(9);
+var lastFive = bulkNumbers.lastIndexOf(5);
